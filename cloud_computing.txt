@@ -1,0 +1,9 @@
+Cloud computing is the delivery of computing services such as storage, servers, databases, networking, and software over the internet. It allows users to access resources on demand without owning physical infrastructure.
+
+There are three main service models in cloud computing: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
+
+IaaS provides virtualized computing resources over the internet. PaaS offers a platform for developers to build applications. SaaS delivers software applications over the internet on a subscription basis.
+
+Cloud computing provides scalability, cost efficiency, flexibility, and high availability.
+
+Popular cloud providers include Amazon Web Services, Microsoft Azure, and Google Cloud Platform.

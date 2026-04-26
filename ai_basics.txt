@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines capable of performing tasks that normally require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding.
+
+AI systems are designed to analyze data, recognize patterns, and make decisions with minimal human intervention. Machine learning is a subset of AI that allows systems to learn from data and improve over time without being explicitly programmed.
+
+There are different types of AI including narrow AI and general AI. Narrow AI is designed to perform a specific task such as voice recognition or recommendation systems. General AI refers to a system that can perform any intellectual task that a human can do.
+
+Applications of AI include healthcare, where it helps in diagnosis and treatment recommendations, finance for fraud detection, and transportation in self-driving cars.
+
+AI is transforming industries by increasing efficiency and enabling smarter decision-making.
